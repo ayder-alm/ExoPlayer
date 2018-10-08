@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fayder-alm%2FExoPlayer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fayder-alm%2FExoPlayer?ref=badge_shield)
+
 # ExoPlayer #
 
 ExoPlayer is an application level media player for Android. It provides an
@@ -93,3 +95,7 @@ To develop ExoPlayer using Eclipse:
   1. Import the projects.
 
 [Android SDK]: http://developer.android.com/sdk/index.html
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fayder-alm%2FExoPlayer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fayder-alm%2FExoPlayer?ref=badge_large)
